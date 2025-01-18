@@ -26,6 +26,22 @@
 ```bash
 git clone https://github.com/tanah1/manage-tasks.git
 
+# API Documentation
+
+يمكنك الوصول إلى توثيق الـ API الخاص بمشروعنا من خلال الرابط التالي:
+
+[API Documentation on Postman]([https://documenter.getpostman.com/view/your_collection_link](https://web.postman.co/workspace/My-Workspace~cbd3fbc7-47c5-489e-8b4c-c8de43bef68f/collection/40212061-1c475b1f-064f-4681-8512-788ef1da8e8e?action=share&source=copy-link&creator=40212061))
+
+يرجى ملاحظة أن هذا الرابط يحتوي على جميع النقاط النهائية (endpoints) للمشروع، بالإضافة إلى التفاصيل الخاصة بكل نقطة نهائية، مثل: الطرق (GET, POST, PUT, DELETE) والاستجابات.
+
+---
+
+## How to Use
+
+1. **أولاً، قم بتسجيل الدخول باستخدام Postman**.
+2. **ثم استخدم الـ API الموثق** لتنفيذ العمليات المطلوبة.
+
+
 2. تثبيت التبعيات:
 bash
 Copy
